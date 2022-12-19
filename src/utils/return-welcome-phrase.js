@@ -1,0 +1,1 @@
+export const hiPhrase = (userName) => `Welcome to the File Manager, ${userName}!`;
