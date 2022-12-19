@@ -1,0 +1,1 @@
+export const byePhrase = (userName) => `Thank you for using File Manager, ${userName}, goodbye!`;
